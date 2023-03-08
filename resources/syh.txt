@@ -1,0 +1,21 @@
+git switch/checkout 分支名   :切换分支
+git merge dev   ：把dev的改变合并到运行的分支上
+
+
+git branch dev1 dev2 dev3
+分别git switch branch名 进入编辑
+回到master 合并到master
+git merge dev1
+git merge dev2 有冲突，手动改，改后
+git commit  -a -m "" 提交改完冲突后的，
+
+git remote add origin git@github.com:shiyh828/gitPro.git
+git push -u origin master
+
+
+
+
+git clone git@git................
+git add 
+git commit -a -m "";  这里不能直接提交空文件夹，里面必须有文件。
+git push origin master；提交到远程仓库
