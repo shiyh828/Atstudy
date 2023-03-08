@@ -1,0 +1,5 @@
+/**
+*by syh
+*/
+{name:"zs",age:18},
+{name:"ls",age:20}
